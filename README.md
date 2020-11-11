@@ -1,6 +1,6 @@
 # vue.js-tutorials
 
-Below: Blog post link | Github repository link
+Below: Blog post link(s) | Github repository link
 
 [Using Vue Template Syntax to Build A Photo Gallery](https://www.digitalocean.com/community/tutorials/vuejs-vue-template-syntax) | [Github repo](https://github.com/pmocal/alligator-zest)
 
